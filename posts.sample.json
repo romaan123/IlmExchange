@@ -1,0 +1,33 @@
+[
+  {
+    "fields": {
+      "userId": {
+        "stringValue": "abc123"
+      },
+      "userEmail": {
+        "stringValue": "user@email.com"
+      },
+      "type": {
+        "stringValue": "offer"
+      },
+      "title": {
+        "stringValue": "Guitar Lessons"
+      },
+      "description": {
+        "stringValue": "Learn guitar from scratch with a patient teacher."
+      },
+      "category": {
+        "stringValue": "Music"
+      },
+      "mode": {
+        "stringValue": "Online"
+      },
+      "experienceLevel": {
+        "stringValue": "Beginner"
+      },
+      "timestamp": {
+        "timestampValue": "2025-06-12T12:00:00Z"
+      }
+    }
+  }
+]
